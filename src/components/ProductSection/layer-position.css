@@ -1,0 +1,33 @@
+#layer-1 { z-index: 6; }
+#layer-1 path { fill: #60a567; }
+
+#layer-2 { z-index: 5; }
+#layer-2 path { fill: #558f5a; }
+
+#layer-3 { z-index: 4; }
+#layer-3 path { fill: #3a7140; }
+
+#layer-4 { z-index: 3; }
+#layer-4 path { fill: #2a592f; }
+
+#layer-5 { z-index: 2; }
+#layer-5 path { fill: #1C4220; }
+#layer-6 path { fill: #85cc8c; }
+
+/* @media (max-width: 1260px) {
+    #layer-1 { bottom: 225px; }
+    #layer-2 { bottom: 170px; }
+    #layer-3 { bottom: 115px; }
+    #layer-4 { bottom: 60px; }
+    #layer-5 { bottom: 5px; }
+    #layer-6 { bottom: -48px; }
+}
+
+@media (max-width: 960px) {
+    #layer-1 { bottom: 214px; }
+    #layer-2 { bottom: 162px; }
+    #layer-3 { bottom: 110px; }
+    #layer-4 { bottom: 58px; }
+    #layer-5 { bottom: 6px; }
+    #layer-6 { bottom: -48px; }
+} */

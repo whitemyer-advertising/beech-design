@@ -1,0 +1,100 @@
+@import url("https://use.typekit.net/yhj2uau.css");
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin:  0;
+    padding: 0;
+    border:  0;
+    position: relative;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height:     1;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-top:    0;
+    margin-bottom: 10px;
+    line-height:   1;
+}
+
+h1, h2 {
+    font-size: 40px;
+    font-family: kepler-std, serif;
+    font-style: italic;
+}
+h3 {
+    font-size: 24px;
+}
+h4, a, figcaption, label, li, td, th {
+    font-size: 20px;
+}
+h5, p {
+    font-size: 16px;
+}
+
+a, figcaption, h3, h4, h5, h6, input, label, li, p, td, th {
+    font-family: quatro, sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6, a, figcaption, label, li, p, td, th {
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing:  0;
+}
+
+img {
+    width: 100%;
+}
+
+.hide {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .5s ease, visibility .5s ease;
+}
+
+@media (max-width: 960px) {
+    h1, h2 {
+        font-size: 32px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    h4, a, figcaption, label, li, td, th {
+        font-size: 18px;
+    }
+    h5, p {
+        font-size: 14px;
+    }
+}
