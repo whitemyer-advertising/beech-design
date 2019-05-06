@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/beech-testing/static/media/beech-difference-compass.31dd83fc.png"
   },
   {
-    "revision": "7562ee8168fa72a5344e",
+    "revision": "0a81ca8828fa7867312d",
     "url": "/beech-testing/static/css/main.5c87020c.chunk.css"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/beech-testing/static/media/custom.e9d6aaf5.png"
   },
   {
-    "revision": "7562ee8168fa72a5344e",
-    "url": "/beech-testing/static/js/main.7562ee81.chunk.js"
+    "revision": "0a81ca8828fa7867312d",
+    "url": "/beech-testing/static/js/main.0a81ca88.chunk.js"
   },
   {
     "revision": "fca3f6297e361109563cf24e98cc905f",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/beech-testing/static/css/2.acdfd482.chunk.css"
   },
   {
-    "revision": "dbca5fd7dfc94bd966b52aeccb58d10a",
+    "revision": "46a9589eec4a8e18c0fd61ca4d1686c5",
     "url": "/beech-testing/index.html"
   }
 ];

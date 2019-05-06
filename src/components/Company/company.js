@@ -11,7 +11,7 @@ export const Company = () => (
             <Theme.VideoCont>
                 <iframe src="https://www.youtube.com/embed/SIr_kFxIwSU" title="About Us" frameBorder="0" allow="encrypted-media" allowFullScreen></iframe>
             </Theme.VideoCont>
-            <p>Formed in 1996 as a division of  <a href="http://www.miller-studio.com/">MSI</a>, a company with experience in manufacturing and distribution dating to 1934. The Beech Division designs  and manufactures premium material handling equipment. Both standard models and custom built units, designed to solve special problems, are available. Watch the video below to learn more about our capabilities.</p>
+            <p>Beech Design & Manufacturing was formed in 1996 as a division of  <a href="http://www.miller-studio.com/">MSI</a>, a company with extensive experience in manufacturing and distribution that dates back to 1934. Today, it is one of the largest suppliers of premium material handling equipment, both standard and custom-built. Watch the video to learn more about our capabilities.</p>
             <div className="button-cont">
                 <Button url="/about" label="Company Background" />
             </div>

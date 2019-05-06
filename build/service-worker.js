@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/beech-testing/precache-manifest.a2a9ed3689965b93be84b8b9c5058f48.js"
+  "/beech-testing/precache-manifest.108d67da97c2869e5b45d6b7c44d3c18.js"
 );
 
 workbox.clientsClaim();
